@@ -9,4 +9,11 @@ support = "https://github.com/gradiencepresets/curated/issue"
 repo = "https://github.com/gradiencepresets/curated"
 maintainer = "GradienceTeam"
 
-[presets]
+[presets.pop]
+raw = "https://raw.githubusercontent.com/gradiencepresets/curated.pop/main/pop.toml"
+name = "Pop"
+badges = [
+    "popular",
+]
+description = "Port of the PopOS! Theme"
+maintainer = "HalfMexican"
