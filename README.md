@@ -4,13 +4,16 @@ This is the curated repo for [Gradience](https://github.com/GradienceTeam/Gradie
 
 Preset     | Maintainer
 -----------|---------------------------------------------------
-
+Pop | HalfMexican
 
 # Contributing
 
 Report issues and contribute to the project on [GitHub](https://github.com/GradienceTeam/Gradience).
 
 ## New preset process
+
+TODO
+
 
 ---
 
