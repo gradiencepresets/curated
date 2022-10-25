@@ -5,7 +5,7 @@ url = "https://usegradience.github.io"
 repo = "https://github.com/gradiencepresets/curated"
 support = "https://github.com/gradiencepresets/curated/issue" # or matrix ?
 
-base_url = "https://raw.githubusercontent.com/gradiencepresets/{name}/main/{name}.toml"
+base_url = "https://raw.githubusercontent.com/gradiencepresets/curated.{name}/main/{name}.toml"
 
 presets = ["pop"]
 
