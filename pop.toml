@@ -10,7 +10,7 @@ repo = "https://github.com/gradiencepresets/curated"
 maintainer = "GradienceTeam"
 
 [presets.pop]
-raw = "https://raw.githubusercontent.com/gradiencepresets/pop/main/pop.toml"
+raw = "https://raw.githubusercontent.com/gradiencepresets/curated.pop/main/pop.toml"
 name = "Pop"
 badges = [
     "popular",
