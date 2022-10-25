@@ -7,8 +7,11 @@ support = "https://github.com/gradiencepresets/curated/issue" # or matrix ?
 
 base_url = "https://raw.githubusercontent.com/gradiencepresets/{name}/main/{name}.toml"
 
-presets = []
+presets = ["pop"]
 
-additional = """## New preset process"""
+additional = """## New preset process
+
+TODO
+"""
 
 contributing = """Report issues and contribute to the project on [GitHub](https://github.com/GradienceTeam/Gradience)."""
